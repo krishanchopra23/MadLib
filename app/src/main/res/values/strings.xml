@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="mab_lib_title">Mad Libs</string>
+    <string name="noun">Noun</string>
+    <string name="verb">Verb</string>
+    <string name="adjective">Adjective</string>
+    <string name="generate_mad_lib">Generate Mad Lib</string>
+    <string name="incorrect_toast">One or more of the fields is left blank</string>
+    <string name="send_mad_lib">Send Mad Lib</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="new_mad_lib">New Mad Lib</string>
+    <string name="reset">Reset</string>
+</resources>
